@@ -1,5 +1,5 @@
 {
-  "name": "byteball-relay",
+  "name": "bng-relay",
   "description": "Byteball Relay",
   "author": "Byteball",
   "version": "0.1.0",
@@ -22,6 +22,6 @@
     "secp256k1": "secp256k1/js"
   },
   "dependencies": {
-    "byteballcore": "git+https://github.com/byteball/byteballcore.git"
+    "bng-core": "git+https://github.com/dagxio/bng-core.git"
   }
 }
